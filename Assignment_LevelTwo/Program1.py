@@ -10,3 +10,6 @@ elif n2<n1 and n2<n3:
     print("The smallest value is:",n2)
 else:
     print("The smallest value is:",n3)
+
+
+#print("The smallest value is:", min(n1,n2,n3))
